@@ -1,0 +1,15 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-2{
+    margin: 13px 0;
+
+
+}
+
+.text-center{
+    text-align: center;
+}
